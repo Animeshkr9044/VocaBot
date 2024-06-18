@@ -1,0 +1,1 @@
+PROMPT="Have a pleasant conversation about life"
